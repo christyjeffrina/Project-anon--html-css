@@ -1,4 +1,6 @@
 Freelancing Platform Website
+
+
 This project is a simple freelancing platform website that allows users to browse and apply for various job listings such as graphic design, programming, tech support, video and animation, digital marketing, writing, translation, and more. The platform provides users the ability to login, sign up, search for specific services, and view job listings in different categories.
 
 Features
